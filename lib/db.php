@@ -1,7 +1,7 @@
 <?php
 /**
  * @todo Description of the class
-	Here are the discriptions!
+	Here are the discription!
  */
 class db
 {
